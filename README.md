@@ -14,3 +14,6 @@ Ideal Workflow:
 2.Preprocessing - tokenize, padding, masking
 3.Build model
 4.Predict and Submit
+
+
+#Note: The ipynb version for the use of GPU on colab
