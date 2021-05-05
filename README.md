@@ -15,4 +15,4 @@ Ideal Workflow:
 4.Predict and Submit
 
 
-#Note: The ipynb version for the use of GPU on colab
+#Note: Originally written in ipynb version for the use of GPU on colab
